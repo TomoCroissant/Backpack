@@ -1,4 +1,4 @@
-# Team CRAB
+# Team Crab
 
 ## Chess Game
 
