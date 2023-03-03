@@ -2,7 +2,9 @@
 
 ## Chess Game
 
-A functional OOP chess game. 
+A functional OOP chess game.
+
+![Chess Game Class Diagram](https://github.com/TomoCroissant/Crab/blob/main/Images/Untitled%20Diagram.drawio.png?raw=true)
 
 ## Croissant Clicker
 
