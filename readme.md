@@ -4,6 +4,6 @@
 
 A functional OOP chess game. 
 
-## Twitter AI
+## Croissant Clicker
 
-An AI that reads text from the desktop, mainly from social media applications. It will then judge the intentions of the person who wrote the text and sort it into one of multiple groups. These groups may include: Artists, Influencers, Politicians, etc.
+A clicker game in which your objective is to consume the most croissants. Level up your croissant production and become Lord of the Croissants. Manage political croissant affairs, manage your croissant empire, and wake up to find yourself in the sad, croissantless reality that you live in.
