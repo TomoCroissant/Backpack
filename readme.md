@@ -21,3 +21,5 @@ A clicker game in which your objective is to consume the most croissants. Level 
 ![Croissant Clicker Class Diagram](https://github.com/TomoCroissant/Crab/blob/main/Images/croissantClickerDiagram.png?raw=true)
 
 ![Croissant Clicker 1](https://github.com/TomoCroissant/Crab/blob/main/Images/croissantGame1.png?raw=true)
+
+![Croissant Clicker](https://github.com/TomoCroissant/Crab/blob/main/Images/croissantGame.png?raw=true)
