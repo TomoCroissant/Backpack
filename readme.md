@@ -1,5 +1,13 @@
 # Team Crab
 
+Ian Turrner: Product Manager
+
+Tomo Sato: Developer
+
+Henry Miller: UX/UI Designer 
+
+Reid Nguyen: Multimedia and Tester
+
 ## Chess Game
 
 A functional OOP chess game.
