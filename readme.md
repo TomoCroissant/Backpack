@@ -8,6 +8,7 @@ Henry Miller: UX/UI Designer
 
 Reid Nguyen: Multimedia and Tester
 
+
 ## Crab Chess Game
 
 A functional OOP chess game, with a twist.
