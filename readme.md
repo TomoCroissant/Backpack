@@ -16,17 +16,23 @@ A functional OOP chess game.
 
 Made By Henry Miller
 
+________________________________________________
+
 Graphical representation:
 
 ![Chess Game Graphic](https://github.com/TomoCroissant/Crab/blob/main/Images/Screenshot%202023-03-03%203.28.52%20PM.png?raw=true)
 
 Made By Reid Nguyen
 
+________________________________________________
+
 Text-based representation:
 
 ![Chess Game Text-based](https://github.com/TomoCroissant/Crab/blob/main/Images/chessText.png?raw=true)
 
 Made By Tomo Sato
+
+________________________________________________
 
 ## Croissant Clicker
 
@@ -36,10 +42,16 @@ A clicker game in which your objective is to consume the most croissants. Level 
 
 Made By Tomo Sato
 
+________________________________________________
+
 ![Croissant Clicker 1](https://github.com/TomoCroissant/Crab/blob/main/Images/croissantGame1.png?raw=true)
 
 Made By Tomo Sato
 
+________________________________________________
+
 ![Croissant Clicker](https://github.com/TomoCroissant/Crab/blob/main/Images/croissantGame.png?raw=true)
 
 Made By Tomo Sato
+
+________________________________________________
