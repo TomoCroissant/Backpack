@@ -1,3 +1,5 @@
+# By Tomo Sato
+
 class Player:
   xpos = 0
   ypos = 0
