@@ -1,6 +1,6 @@
 # By Ian Turner
 
-class Bullet:
+class Bullet(object):
   xpos = 0
   ypos = 0
   canCollide = False
