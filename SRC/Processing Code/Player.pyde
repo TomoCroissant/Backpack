@@ -1,6 +1,6 @@
 # By Tomo Sato and Ian Turner
 
-class Player:
+class Player(object):
   xpos = 0
   ypos = 0
   health = 10
