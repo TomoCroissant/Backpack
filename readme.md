@@ -24,4 +24,4 @@ Made by Tomo Sato
 
 # Update History
 
-* 
+* Basic skeleton created by making classes and functions from class diagram.
