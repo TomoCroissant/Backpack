@@ -1,6 +1,6 @@
 ## Made By Reid Nguyen
 
-class NPC:
+class NPC(object):
   isEnemy = False
   dialogue = 'Hello!'
   health = 10
