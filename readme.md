@@ -17,9 +17,9 @@ Reid Nguyen: Multimedia and Tester
 
 Top down RPG
 
-![Final Frontier Class Diagram](https://github.com/TomoCroissant/Crab/blob/main/Images/finalFrontierClassDiagram.png?raw=true)
+![ClassDiagram](https://user-images.githubusercontent.com/111540839/230961004-6ebaf4a6-885c-46c4-8930-313976a2284a.png)
 
-Made by Tomo Sato
+Made by Reid Nguyen
 
 
 # Update History
