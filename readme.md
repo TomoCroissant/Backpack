@@ -17,9 +17,9 @@ Class Diagram
 
 Made by Reid Nguyen
 
-Active Game Play
+Active Gameplay
 
-![ActiveGamePlay](https://github.com/TomoCroissant/Crab/blob/main/Images/activeGamePlay.png?raw=true)
+![ActiveGameplay](https://github.com/TomoCroissant/Crab/blob/main/Images/frontierScreenshot.png?raw=true)
 
 Made by all
 
@@ -38,3 +38,4 @@ Made by all
 * Bullet limited by waiting until the boomerang returned to the player before shooting again.
 * Sprites of characters, objects, and maps drawn to screen.
 * Project broke because Replit no longer runs pygame on our devices.
+* Replit came back to life.
