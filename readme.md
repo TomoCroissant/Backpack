@@ -23,6 +23,8 @@ Active Game Play
 
 ![ActiveGamePlay](https://github.com/TomoCroissant/Crab/blob/main/Images/activeGamePlay.png?raw=true)
 
+Made by all
+
 # Update History
 
 * Basic skeleton created by making classes and functions from class diagram.
