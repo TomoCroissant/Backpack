@@ -26,3 +26,6 @@ class Bullet:
     self.targetPoint = newPos
     self.startPoint = (self.xpos, self.ypos)
     self.canCollide = True
+
+  
+    
