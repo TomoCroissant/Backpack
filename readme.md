@@ -39,4 +39,6 @@ Made by all
 * Sprites of characters, objects, and maps drawn to screen.
 * Project broke because Replit no longer runs pygame on our devices.
 * Replit came back to life.
-* Changing all code to work in the Prossesing IDE
+* Hitboxes and collision detection created for player, NPC, and bullet
+* Created and implemented room and sprite art
+* Implemented score and file saving systems
