@@ -9,7 +9,7 @@ Henry Miller: UX/UI Designer
 Reid Nguyen: Multimedia and Tester
 
 
-## The Final Frontier
+## Alptraum von James
 
 Class Diagram
 
