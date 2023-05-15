@@ -13,9 +13,9 @@ Reid Nguyen: Multimedia and Tester
 
 Class Diagram
 
-![ClassDiagram](https://user-images.githubusercontent.com/111540839/230961004-6ebaf4a6-885c-46c4-8930-313976a2284a.png)
+![ClassDiagram](https://github.com/TomoCroissant/Crab/blob/main/Images/UML.png?raw=true)
 
-Made by Reid Nguyen
+Made by Tomo Sato
 
 Active Gameplay
 
