@@ -1,6 +1,6 @@
 # Team Crab
 
-Ian Turrner: Product Manager
+Ian Turner: Product Manager
 
 Tomo Sato: Developer
 
