@@ -23,6 +23,14 @@ Active Gameplay
 
 Made by all
 
+# Instructions for running the program
+
+In Terminal type:
+
+  pip3 install pygame
+  
+Then open the .zip file containing the game. Search for main.py and run the file.
+
 # Update History
 
 * Basic skeleton created by making classes and functions from class diagram.
