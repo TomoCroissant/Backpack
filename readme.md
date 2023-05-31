@@ -15,11 +15,11 @@ Class Diagram
 
 ![ClassDiagram](https://github.com/TomoCroissant/Crab/blob/main/Images/UML.png?raw=true)
 
-Made by Tomo Sato
+Class Diagram made by Tomo Sato
 
 Active Gameplay
 
-![ActiveGameplay](https://github.com/TomoCroissant/Crab/blob/main/Images/frontierScreenshot.png?raw=true)
+![ActiveGameplay](https://github.com/TomoCroissant/Crab/blob/main/Images/james.png?raw=true)
 
 Made by all
 
